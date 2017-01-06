@@ -1,0 +1,7 @@
+General usage notes:
+1) Edit config.properties to mention database details for mysql
+2) Import project to the eclipse workspace
+3) Create database table for the inventory and table as products
+4) Run ProductServiceDemo.java file to add, update products
+5) ProductResource.java is REST API which I have created to provide
+   products as a resources
